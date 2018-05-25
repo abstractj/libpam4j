@@ -31,7 +31,7 @@
 
     <artifactId>libpam4j</artifactId>
     <groupId>org.abstractj</groupId>
-    <version>1.9.1</version>
+    <version>1.9.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Java binding for libpam.so</name>
 
